@@ -1,0 +1,180 @@
+2021-10-21 13:53:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-21 13:53:53 - Started 3124
+2021-10-21 13:54:33 - Stopping paginaimpressorasantos.exe
+2021-10-21 13:54:33 - ProcessKill 3124
+2021-10-21 13:54:33 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-21 13:55:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-21 13:55:02 - Started 5584
+2021-10-21 14:03:20 - Stopping paginaimpressorasantos.exe
+2021-10-21 14:03:20 - ProcessKill 5584
+2021-10-21 14:03:20 - Shutdown exception
+Message:Classe não registrada
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-21 14:03:45 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-21 14:03:45 - Started 5756
+2021-10-21 14:06:30 - Stopping paginaimpressorasantos.exe
+2021-10-21 14:06:30 - ProcessKill 5756
+2021-10-21 14:06:30 - Shutdown exception
+Message:Classe não registrada
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-21 14:06:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-21 14:06:54 - Started 5704
+2021-10-22 11:27:07 - Stopping paginaimpressorasantos.exe
+2021-10-22 11:27:07 - ProcessKill 5704
+2021-10-22 11:27:08 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-22 11:27:38 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-22 11:27:38 - Started 5576
+2021-10-25 13:18:05 - Stopping paginaimpressorasantos.exe
+2021-10-25 13:18:05 - ProcessKill 5576
+2021-10-25 13:18:05 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-25 13:18:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-25 13:18:29 - Started 5580
+2021-10-29 11:32:23 - Stopping paginaimpressorasantos.exe
+2021-10-29 11:32:23 - ProcessKill 5580
+2021-10-29 11:32:23 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-10-29 11:32:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-29 11:32:49 - Started 5644
+2021-11-10 18:35:07 - Stopping paginaimpressorasantos.exe
+2021-11-10 18:35:07 - ProcessKill 5644
+2021-11-10 18:35:07 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-11-10 18:35:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-10 18:35:41 - Started 5456
+2021-11-17 08:11:57 - Stopping paginaimpressorasantos.exe
+2021-11-17 08:11:57 - ProcessKill 5456
+2021-11-17 08:11:57 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-11-17 08:12:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-17 08:12:20 - Started 5660
+2021-11-17 08:12:51 - Stopping paginaimpressorasantos.exe
+2021-11-17 08:12:51 - ProcessKill 5660
+2021-11-17 08:12:51 - Shutdown exception
+Message:Classe não registrada
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-11-17 08:13:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-17 08:13:16 - Started 5600
+2021-11-29 08:12:54 - Stopping paginaimpressorasantos.exe
+2021-11-29 08:12:54 - ProcessKill 5600
+2021-11-29 08:12:54 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-11-29 08:13:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-29 08:13:22 - Started 5596
+2021-12-01 09:56:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-01 09:56:47 - Started 5144
+2021-12-03 12:30:03 - Stopping paginaimpressorasantos.exe
+2021-12-03 12:30:03 - ProcessKill 5144
+2021-12-03 12:30:04 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2021-12-03 12:30:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\paginasImpressoras\impressoras_Santos\node_modules\node-windows\lib\wrapper.js --file C:\paginasImpressoras\impressoras_Santos\server.js --scriptoptions= --log "Pagina Impressora Santos wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-03 12:30:35 - Started 5672
